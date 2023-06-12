@@ -1,2 +1,2 @@
 # relatorio-operacional-financeiro-medico-hospitalar
-Um Projeto pessoal de análise de uma base de dados hospitalar.
+Este é mais um projeto desenvolvido por mim (estudante de Ciência da Computação) e pela minha namorada (estudante de Engenharias Biomédica), voltado para análise de dados relacionados com a área da saúde. Com o intuito de realizar programas que abrengem diversas áreas e com a ajuda do conhecimento dela na área de saúde, montamos esse programa que realiza uma análise operacional, financeira, e de não conformidades como erros ou fraudes possíveis. Baseado em uma base de dados de um hospital.
